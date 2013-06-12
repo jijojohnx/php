@@ -1,4 +1,3 @@
-
 <?php
 // class coded by jijojohn singlelinelogics
 //sql injection free class an example
@@ -49,6 +48,7 @@ print_r($query);
 <?php
 
 //Db connection add your connection details
+
 $object = new dbconnecter("localhost","testing","root","password");
 $object->dbconnection();
 $object->selectquery("Select * from categories","update");
