@@ -51,6 +51,6 @@ print_r($query);
 
 $object = new dbconnecter("localhost","testing","root","password");
 $object->dbconnection();
-$object->selectquery("Select * from categories","update");
+$object->selectquery("Select * from categories");
 
 ?>
