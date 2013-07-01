@@ -1,4 +1,4 @@
 php
 ===
 
-Here iam providing some useful php classes for programmers and people who are researching on this field . 
+Some php classes coded by me ..  If you find it useful , use it and share it with your friends 
